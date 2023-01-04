@@ -1,4 +1,4 @@
-# Pascal's Triangle
+# Pascal's Triangle 01/03/2023
 
 # Write a Python function called max_num()to find the Max of three numbers.
 
